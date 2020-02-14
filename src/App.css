@@ -4,7 +4,6 @@ background: linear-gradient(50deg, #00dbde, #fc00ff);
 display: flex;
 justify-content: space-around;
 align-items: center;
-flex-direction: column;
 }
 
 
